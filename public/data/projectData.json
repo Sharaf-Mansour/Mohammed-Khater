@@ -4,7 +4,7 @@
     "title": "Develop the Oracle of DSCOVR",
     "description": "We designed an advanced forecasting system using the XGBoost Machine Learning Model to predict the Kp Index on Earth, leveraging data from the DSCOVR satellite situated at the L1 point, 1 million km away. This serves as an early warning mechanism for geomagnetic storms. we faced the challenge of data gaps, we introduced an additional time-series model to synthesize data. The significant solution here is harnessing the capability of an older-generation satellite, situated a million km from Earth, to predict potentially impactful geomagnetic disturbances.",
     "img": "images/projects/project1.png",
-    "tag": ["All", "AI", "Data Science", "Machine Learning"],
+    "tag": ["All", "FullStack"],
     "technologies": ["HTML", "CSS", "JavaScript", "Svelte", "Python", "AI"],
     "gitUrl": "https://github.com/Sharaf-Mansour/HelioN",
     "previewUrl": "https://www.spaceappschallenge.org/2023/find-a-team/helion/?tab=project",
