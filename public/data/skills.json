@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Programming Languages",
+    "items": ["JavaScript", "C#", "Python", "TypeScript"]
+  },
+  {
+    "type": "Markup and Styling",
+    "items": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "type": "Version Control",
+    "items": ["Git", "GitHub"]
+  },
+  {
+    "type": "Styling Libraries",
+    "items": ["Bootstrap", "Tailwind"]
+  },
+  {
+    "type": "Frameworks",
+    "items": ["React.js", "Svelte", "Next.js", "SvelteKit", "Blazor"]
+  },
+  {
+    "type": "Backend",
+    "items": ["AspNetCore", "Node.js", "Bun.js"]
+  },
+  {
+    "type": "Data Science Libraries",
+    "items": ["Pandas", "Numpy", "Matplotlib", "Scikit-learn", "TensorFlow", "Keras", "PyTorch", "OpenCV", "Flask"]
+  },
+  {
+    "type": "Databases",
+    "items": ["MySQL", "Microsoft SQL Server", "PostgreSQL", "SQLite"]
+  },
+  {
+    "type": "Tools",
+    "items": ["Visual Studio 2022", "VS Code", "Jupyter Notebook", "Postman", "Netlify", "Vercel", "GitHub Pages", "Google Colab"]
+  },
+  {
+    "type": "Design",
+    "items": ["Figma"]
+  }
+]
