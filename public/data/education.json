@@ -1,14 +1,18 @@
 [
   {
     "institution": "ALX The Room and Explore AI",
-    "details": ["Data Science 42 weeks program","Learned machine learning, and deep learning.","Worked on projects in the field of computer vision, natural language processing, and reinforcement learning."]
+    "details": [
+      "Data Science 42 weeks program",
+      "Learned machine learning, and deep learning.",
+      "Worked on projects in the field of computer vision, natural language processing, and reinforcement learning."
+    ]
   },
   {
-    "institution": "Faculty of Electronic Engineering, Menoufia University",
+    "institution": "Computer Science, Cairo University ",
     "details": [
-      "Bachelor's degree in Electronic Engineering.",
-      "Department: Computer Science and Engineering",
-      "Major: Software Engineering"
+      "Bachelor's degree in Data Science.",
+      "Department: Computer Science",
+      "Major: Data Science"
     ]
   }
 ]
