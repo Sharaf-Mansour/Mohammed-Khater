@@ -41,7 +41,7 @@ const Hero = () => {
             </button>
             
             <a 
-              href="/FayezKassem.pdf" 
+              href="/Mohammed.pdf" 
               download 
             >
             <button className='px-6 py-3 rounded-full w-full md:w-fit bg-transparent hover:bg-slate-800 text-white border border-white my-3'>Download My CV</button>

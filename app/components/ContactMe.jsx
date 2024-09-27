@@ -7,37 +7,26 @@ const contactInfo = [
     id: 1,
     title: "whatsapp",
     icon: "images/contacts/whatsapp.svg",
-    link: "https://api.whatsapp.com/send/?phone=201029203304&type=phone_number&app_absent=0",
+    link: "https://api.whatsapp.com/send/?phone=201011163787&type=phone_number&app_absent=0",
   },
   {
     id: 2,
     title: "gmail",
     icon: "images/contacts/gmail.svg",
-    link: "mailto:fayezkassem3@gmail.com",
+    link: "mailto:mohammed78tarek@gmail.com",
   },
+ 
   {
     id: 3,
-    title: "x",
-    icon: "images/contacts/x.svg",
-    link: "https://x.com/fayezkassem5",
+    title: "linkedin",
+    icon: "images/contacts/linkedin.svg",
+    link: "https://www.linkedin.com/in/mohammed-tarek-b1168b246/",
   },
   {
     id: 4,
-    title: "linkedin",
-    icon: "images/contacts/linkedin.svg",
-    link: "https://www.linkedin.com/in/fayez-kassem-b5922020a/",
-  },
-  {
-    id: 5,
-    title: "facebook",
-    icon: "images/contacts/facebook.svg",
-    link: "https://www.facebook.com/fayezkassem55/",
-  },
-  {
-    id: 6,
     title: "github",
     icon: "images/contacts/github.svg",
-    link: "https://github.com/Zoz55",
+    link: "https://github.com/Mohammed0tarek",
   }
 ]
 

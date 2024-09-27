@@ -38,7 +38,7 @@ const About = () => {
       <div className='flex flex-col lg:flex-row gap-8 lg:gap-24 items-start py-8 px-4 sm:py-16 xl:px-16'>
         <Image
           src="/images/About.jpg"
-          alt='Fayez Kassem Image'
+          alt='Mohammed Tarek Image'
         width={500}
         height={500}
         />
