@@ -5,7 +5,7 @@ const Logo = () => {
   return (
     <>
     <span className={pacifico.className }>
-      &lt;Fayez/&gt;
+      &lt;Mohammed/&gt;
     </span>
     </>
   )

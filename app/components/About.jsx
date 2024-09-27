@@ -45,12 +45,12 @@ const About = () => {
         <div className='mt-4 lg:mt-0 text-left flex flex-col h-full'>
           <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
           <p className='text-base lg:text-lg'>
-          I&apos;m a Software Engineer driven by a passion for creating solutions that make a real difference. 
-          Specializing in web development and machine learning, I bring a blend of technical expertise and creativity to every project. 
-          Currently, I&apos;m proud to be part of the talented team at<Link className='hover:text-white text-[#ADB7BE]' href="https://www.linkedin.com/company/ElitesXTech"> ElitesX.Tech </Link> 
-          while also honing my skills as a Data Science intern at ExploreAI. 
-          I&apos;m always on the lookout for exciting challenges and opportunities to learn and grow. 
-          If you&apos;re interested in collaborating, I&apos;d love to connect and explore how we can work together to bring your ideas to life.
+            A student at Cairo University currently ranked second in my class and an ALX fellow.
+            I used ETL, automation, and predictive modeling to build a dataset and extract insights.
+            Forecast geomagnetic storms to anticipate and mitigate risks during NASA space apps hackathon 2023.
+            Analyzed data and built dashboards using power BI to inform strategic decisions at ALX.
+            Led two entrepreneurial projects with two teams of diverse cultures at ALX ventures and university.
+            Proficient in SQL, Python, Power BI, and bash scripting with an analytical mindset.
          </p>
           <div className='flex flex-row mt-8'>
             <TabButton selectTap={() => handleTapChange("skills")} active={tab === "skills"}>Skills</TabButton>

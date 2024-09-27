@@ -16,10 +16,9 @@ const Hero = () => {
             </span>
             <TypeAnimation
               sequence={[
-                // Same substring at the start will only be typed out once, initially
-                'Fayez Kassem',
-                1000, // wait 1s before replacing "Mice" with "Hamsters"
-                'Software Engineer',
+                'Mohammed Tarek',
+                1000,
+                'Data Engineer',
                 1000,
                 'Data Scientist',
                 1000
@@ -30,7 +29,7 @@ const Hero = () => {
             />
           </div>
           <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-            A passionate Software Engineer and Data Scientist specializing in Full-Stack Development. I&apos;m committed to tackling real-world challenges, pushing boundaries, and delivering innovative solutions. With expertise in JavaScript, React, Node.js, Python, and .NET, I bring a versatile skill set to every project. Let&apos;s collaborate and create something extraordinary together.
+              A passionate Data Scientist specializing in Data Engineering. I'm committed to tackling real-world challenges, pushing boundaries, and delivering innovative solutions. With expertise in Python, and .NET, I bring a versatile skill set to every project. Let's collaborate and create something extraordinary together.
           </p>
 
           <div> 
