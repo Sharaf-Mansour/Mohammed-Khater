@@ -22,5 +22,17 @@
     "previewUrl": "https://mohammed-tarek.vercel.app/",
     "authors": "Mohammed Tarek Ahmed Ibrahim",
     "category": "Data Science"
+  },
+  {
+    "id": 3,
+    "title": "Advanced House Price analysis",
+    "description": "An Advanced  Analysis of House Prices in melbourne during the 2017 Price boom using machine learning techniques to predict house prices based on features like size, location, and amenities. The project involves data engineering and augmentation using external APIs, advanced statistical analysis, preprocessing, feature engineering, and testing models like XGBoost and Random Forest to optimize predictions.",
+    "img": "images/projects/project3.png",
+    "tag": ["All", "BackEnd"],
+    "technologies": [" Python", "Machine Learning", "AI"],
+    "gitUrl": "  https://github.com/Mohammed0tarek/Advanced-House-Price-analysis",
+    "previewUrl": "/",
+    "authors": "Mohammed Tarek Ahmed Ibrahim",
+    "category": "Data Science"
   }
 ]
