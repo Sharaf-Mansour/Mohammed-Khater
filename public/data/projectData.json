@@ -10,5 +10,17 @@
     "previewUrl": "https://www.spaceappschallenge.org/2023/find-a-team/helion/?tab=project",
     "authors": "Omar Ibrahim Salah, Abdallah Samir Alhdad, Omar Mohsen,Sharaf El Dean Mohamed Abd El Khalik Mohamed, Mohammed Tarek Ahmed Ibrahim, Moaaz Tarek Ahmed",
     "category": "Data Science"
+  },
+  {
+    "id": 2,
+    "title": "Abalone age prediction",
+    "description": "Predicting the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location (hence food availability) may be required to solve the problem.",
+    "img": "images/projects/project2.png",
+    "tag": ["All", "BackEnd"],
+    "technologies": ["HTML", "CSS", " Python", "Machine Learning", "AI"],
+    "gitUrl": "https://github.com/Mohammed0tarek/Abalone-Project",
+    "previewUrl": "https://mohammed-tarek.vercel.app/",
+    "authors": "Mohammed Tarek Ahmed Ibrahim",
+    "category": "Data Science"
   }
 ]
