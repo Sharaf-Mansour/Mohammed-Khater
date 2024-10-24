@@ -4,7 +4,7 @@ import Image from "next/image";
 const ContactLink = ({icon, link, title}) => {
   return (
     <>
-        <a href={link}>
+        <a href={link} target="_blank">
           <Image
             src={icon}
             alt={title}
