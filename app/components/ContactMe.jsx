@@ -1,7 +1,5 @@
 import React from 'react'
 import ContactLink from './ContactLink'
-import gmailIcon from '/public/images/contacts/gmail.svg'
-
 const contactInfo = [
   {
     id: 1,
@@ -30,9 +28,7 @@ const contactInfo = [
   }
 ]
 
-const ContactMe = () => {
-  return (
-
+const ContactMe = () => (
     <footer id="contact">
       <h2 className='text-center text-4xl font-bold text-white mt-4 mb-4'>
         contact me
@@ -49,6 +45,5 @@ const ContactMe = () => {
       </div>
     </footer>
   )
-}
 
 export default ContactMe
